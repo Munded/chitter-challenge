@@ -1,7 +1,7 @@
 Chitter Challenge
 =================
 
-!https://github.com/Munded/chitter-challenge/blob/master/app/public/images/Screen%20Shot%202015-06-04%20at%2014.37.12.png
+![Chitter](https://github.com/Munded/chitter-challenge/blob/master/app/public/images/Screen%20Shot%202015-06-04%20at%2014.37.12.png)
 
 This was a challenge to remake twitter written in ruby
 
